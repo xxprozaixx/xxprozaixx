@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Ng</h1>
-<h3 align="center">A passionate weeb frontend developer from Malaysia</h3>
+<h3 align="center">A passionate learning programming from Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxprozaixx&label=Profile%20views&color=0e75b6&style=flat" alt="xxprozaixx" /> </p>
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **adrianncy02@gmail.com**
 
-- ⚡ Fun fact **I'm inspired by anime, almost anything**
+- ⚡ Fun fact **I'm inspired by anime most of the time, almost anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
